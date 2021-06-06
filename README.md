@@ -10,7 +10,7 @@
 or
 
 	systemize -h
-	
+
  And you will be presented with a list of installed apps.
  And Reboot to apply changes.
 
@@ -20,6 +20,8 @@ or
 
 ## Changelog
 
+### v17.4.1
+* More Android 11 support by ironLink21
 ### v17.3.1
 * Updated mod-util
 ### v17.3
